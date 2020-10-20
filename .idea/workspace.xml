@@ -20,8 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e9ea583-c9a0-4e0c-930b-89058452b07d" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AipBodyAnalysis.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AipBodyAnalysis.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AipContentCensor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AipContentCensor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AipFace.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AipFace.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AipImageCensor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AipImageCensor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AipImageClassify.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AipImageClassify.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AipImageProcess.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AipImageProcess.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AipImageSearch.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AipImageSearch.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AipKg.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AipKg.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AipNlp.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AipNlp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AipSpeech.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AipSpeech.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603165341462</updated>
-      <workItem from="1603165342519" duration="1890000" />
+      <workItem from="1603165342519" duration="2187000" />
     </task>
     <servers />
   </component>

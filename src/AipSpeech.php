@@ -14,13 +14,15 @@
 * License for the specific language governing permissions and limitations under
 * the License.
 */
+namespace baidu\ocr;
 
-require_once 'lib/AipBase.php';
+use baidu\ocr\lib\AipBase;
+
 
 /**
  * 百度语音
  */
-class AipSpeech extends AipBase{
+class AipSpeech extends AipBase {
 
     /**
      * url

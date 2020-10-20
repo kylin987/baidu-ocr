@@ -14,12 +14,11 @@
 * License for the specific language governing permissions and limitations under
 * the License.
 */
-
-require_once 'AipImageCensor.php';
+namespace baidu\ocr;
 
 /**
  * 内容审核
  */
-class AipContentCensor extends AipImageCensor{
+class AipContentCensor extends AipImageCensor {
 
 }

@@ -14,8 +14,11 @@
 * License for the specific language governing permissions and limitations under
 * the License.
 */
+namespace baidu\ocr;
 
-require_once 'lib/AipBase.php';
+
+use baidu\ocr\lib\AipBase;
+
 class AipNlp extends AipBase {
 
     /**
