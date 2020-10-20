@@ -1,0 +1,21 @@
+{
+    "name": "kylin987/baidu-ocr",
+    "description": "百度OCR文字识别",
+    "type": "library",
+    "require": {
+        "php": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kylin87",
+            "email": "kylin87@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "baidu\\ocr\\": "src/"
+        }
+    }
+}
