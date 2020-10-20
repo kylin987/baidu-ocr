@@ -50,7 +50,7 @@ class Ocr {
 
     public function __construct($config = [])
     {
-        $this->client = new AipOcr($this->config['app_id'], $this->config['api_key'], $this->config['secret_key']);
+        $this->client = new AipOcr($config['app_id'], $config['api_key'], $config['secret_key']);
     }
 
     /**
