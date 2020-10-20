@@ -3,7 +3,7 @@
     "description": "百度OCR文字识别",
     "type": "library",
     "require": {
-        "php": ">=7.0"
+        "php": ">=5.6"
     },
     "license": "MIT",
     "authors": [
