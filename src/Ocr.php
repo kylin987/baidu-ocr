@@ -36,7 +36,7 @@ class Ocr {
      * 简易结果
      * @var bool
      */
-    protected $simple_result = false;
+    protected $simple_result = true;
 
     /**
      * 设置简易结果
